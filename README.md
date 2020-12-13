@@ -7,7 +7,8 @@
 
 ## How I keep myself in a growth mindest?
 ###   ***Learn something new***
-###  ***challange yourself*** 
+###  ***Keep focus *** 
+###  ***criticize myself *** 
 
 
 
