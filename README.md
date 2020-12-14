@@ -16,9 +16,9 @@
 - ####  ***criticize myself*** 
 
 ## here you can see my notes during this course
-|Day 1|[Notes 1](https://ayaabe95.github.io/reading-notes/)|
-|Day 2|[Notes 2](https://ayaabe95.github.io/reading-notes2/)|
-|Day 3|[Notes 2](https://ayaabe95.github.io/readingnotes-3/)|
+| Day 1 | [Notes 1](https://ayaabe95.github.io/reading-notes/)  |
+| Day 2 | [Notes 2](https://ayaabe95.github.io/reading-notes2/) |
+| Day 3 | [Notes 2](https://ayaabe95.github.io/readingnotes-3/) |
 
 
 
