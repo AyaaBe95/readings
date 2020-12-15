@@ -12,6 +12,6 @@
 # **Notes**
 - ### CSS treats each HTML e XX lement as if it appears inside its own box and uses rules to indicate how that element should look. ###
 - ### Rules are made up of selectors (that specify the elements the rule applies to and declarations that indicate what these elements should look like). ###
-- ### Different types of selectors allow you to target your rules at different elements.###
+- ### Different types of selectors allow you to target your rules at different elements. ###
 - ### CSS rules usually appear in a separate document, although they may appear within an HTML page. ###
 
