@@ -16,3 +16,7 @@
 - ### Different types of selectors allow you to target your rules at different elements. ###
 - ### CSS rules usually appear in a separate document, although they may appear within an HTML page. ###
 
+## Color in CSS:
+- ### Color not only brings a site to life, but also helps convey the mood and evokes reactions. ###
+- ### There are three ways to specify colors in CSS: RGB values, hex codes, and color names. ###
+
