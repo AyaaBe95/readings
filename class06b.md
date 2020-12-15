@@ -1,2 +1,2 @@
 # Class06b Notes #
-## *The history of computer ##
+## *The history of computer* ##
