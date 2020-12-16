@@ -22,8 +22,8 @@
 
 ### loops are used to execute a set of instructions/functions repeatedly when some conditions become true. There are three types of loops in Java. ###
 
-- #### while loop ####
-- #### for loop #### 
+- #### while loop:can execute a block of code a number of times ####
+- #### for loop:can execute a block of code as long as a specified condition is true. #### 
 
 
 
