@@ -4,8 +4,8 @@
 
 ## <li> decision-making process containes two components: </li> ##
 
-- An expression that returns a value.
-- A Conditional statement.
+* An expression that returns a value.
+* A Conditional statement.
 
 ## <li> Different comparison operators:  </li> ##
 
@@ -22,9 +22,9 @@
 
 ### loops are used to execute a set of instructions/functions repeatedly when some conditions become true. There are three types of loops in Java. ###
 
-- #### while loop:can execute a block of code a number of times ####
-- #### for loop:can execute a block of code as long as a specified condition is true. #### 
-- #### do-while loop :it executes a block of code at least once, and then either repeatedly executes the block, or stops executing it, depending on a given boolean condition. ####
+* #### while loop:can execute a block of code a number of times ####
+* #### for loop:can execute a block of code as long as a specified condition is true. #### 
+* #### do-while loop :it executes a block of code at least once, and then either repeatedly executes the block, or stops executing it, depending on a given boolean condition. ####
 
 
 
