@@ -13,6 +13,13 @@
 - #### *processing* #####
 - #### *outputs* #####
 
+## Binary data ## 
+
+[![Foo](https://ak.picdn.net/shutterstock/videos/6007811/thumb/9.jpg)
+
+
+### Binary data is data whose unit can take on only two possible states, traditionally labeled as 0 and 1 ###
+
 
 
 
