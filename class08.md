@@ -17,16 +17,18 @@
 
 - ![operators](https://programmingwithbabu.files.wordpress.com/2017/09/logical_operator_in_c.jpg)
 
+
+## <li> Loops </li> ##
+
+### loops are used to execute a set of instructions/functions repeatedly when some conditions become true. There are three types of loops in Java. ###
+
+- #### while loop ####
+- #### for loop #### 
+
+
+
+
 </ol>
-
-> loops are used to execute a set of instructions/functions repeatedly when some conditions become true. There are three types of loops in Java.
-
-- for loop
-- while loop
-
-
-
-
 
 
 
