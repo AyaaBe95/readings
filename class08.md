@@ -24,6 +24,8 @@
 
 - #### while loop:can execute a block of code a number of times ####
 - #### for loop:can execute a block of code as long as a specified condition is true. #### 
+- #### do-while loop :it executes a block of code at least once, and then either repeatedly executes the block, or stops executing it, depending on a given boolean condition. ####
+
 
 
 
