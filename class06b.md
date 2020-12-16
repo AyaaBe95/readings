@@ -33,6 +33,12 @@
 - #### The memory is the storage area where all the inputs are stored before processing and the outputs are stored after processing of inputs. ####
 - #### A central processing unit (CPU), also called a central processor, main processor or just processor, is the electronic circuitry within a computer that executes instructions that make up a computer program. ####
 
+## Softwares and hardwares ##
+### The physical pieces of a computer are called hardware, and the
+virtual pieces of a computer are called software. Within both hardware and software,
+there are individual components, and within those components, there are even more
+components. ###
+
 
 
 
