@@ -1,4 +1,4 @@
 # Class06b Notes #
 ## *The history of computer* ##
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](https://sceptrecollege.edu.pk/wp-content/uploads/2018/03/computer-img.jpg)](http://google.com.au/)
