@@ -14,6 +14,6 @@
 
 
 ## Color in CSS:
-- ### Color not only brings a site to life, but also helps convey the mood and evokes reactions. ###
+- ### Color  brings a site to life and helps convey the mood and evokes reactions. ###
 - ### There are three ways to specify colors in CSS: RGB values, hex codes, and color names. ###
 
