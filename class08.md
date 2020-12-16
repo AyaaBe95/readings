@@ -2,7 +2,7 @@
 
 <ol>
 
-<li> ## decision-making process containes two components: ## </li>
+## <li> decision-making process containes two components: </li> ##
 
 - An expression that returns a value.
 - A Conditional statement.
