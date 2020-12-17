@@ -1,4 +1,4 @@
-# Rading Notes #
+# Reading Notes #
 
 * Growth mindest
 [growth mindest](https://ayaabe95.github.io/readings/growth-midset)
