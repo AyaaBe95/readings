@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Home Page
-=======
+
+
 
 #  Welcome to my homepage.
 
@@ -26,10 +25,3 @@
 | Day 3 | [Notes 3](https://ayaabe95.github.io/readingnotes-3/) |
 
 
->>>>>>> 199d6ad75a8bf0dbc1e9445dd00ee73326d81b09
-
-## Intro
-
-## Table of Content
-
-- [Growth Mindset]()
