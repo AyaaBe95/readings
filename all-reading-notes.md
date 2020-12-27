@@ -1,10 +1,6 @@
 # Reading Notes 102 #
 
-* Growth mindest
-[growth mindest](https://ayaabe95.github.io/readings/growth-midset)
-
-
-
+| Class0 |[growth mindest](https://ayaabe95.github.io/readings/growth-midset/)|
 | Class01 |[Notes 1](https://ayaabe95.github.io/readings/class01/)|
 | :---  |            ---:                                         |
 | Class02 |[Notes 2](https://ayaabe95.github.io/readings/class02/)|
