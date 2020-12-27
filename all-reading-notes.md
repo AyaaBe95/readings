@@ -1,4 +1,4 @@
-# Reading Notes #
+# Reading Notes 102 #
 
 * Growth mindest
 [growth mindest](https://ayaabe95.github.io/readings/growth-midset)
@@ -29,6 +29,9 @@
 
 * class08
 [class08](https://ayaabe95.github.io/readings/class08)
+
+# Reading Notes 201 #
+
 
 
 
