@@ -3,7 +3,6 @@
 | Class0 |[growth mindest](https://ayaabe95.github.io/readings/growth-midset/)|
 | :---  |            ---:                                         |
 | Class01 |[Notes 1](https://ayaabe95.github.io/readings/class01/)|
-
 | Class02 |[Notes 2](https://ayaabe95.github.io/readings/class02/)|
 | Class03 |[Notes 3](https://ayaabe95.github.io/readings/class03/)|
 | Class04 |[Notes 4](https://ayaabe95.github.io/readings/class04/)|
