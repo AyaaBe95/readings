@@ -3,32 +3,18 @@
 * Growth mindest
 [growth mindest](https://ayaabe95.github.io/readings/growth-midset)
 
-* class01
-[class01](https://ayaabe95.github.io/readings/class01)
 
-* class02
-[class02](https://ayaabe95.github.io/readings/class02)
 
-* class03
-[class03](https://ayaabe95.github.io/readings/class03)
-
-* class04
-[class04](https://ayaabe95.github.io/readings/class04)
-
-* class05
-[class05](https://ayaabe95.github.io/readings/class05)
-
-* class06a
-[class06a](https://ayaabe95.github.io/readings/class06a)
-
-* class06b
-[class06b](https://ayaabe95.github.io/readings/class06b)
-
-* class07
-[class07](https://ayaabe95.github.io/readings/class07)
-
-* class08
-[class08](https://ayaabe95.github.io/readings/class08)
+| Class01 |[Notes 1](https://ayaabe95.github.io/readings/class01/)|
+| :---  |            ---:                                         |
+| Class02 |[Notes 2](https://ayaabe95.github.io/readings/class02/)|
+| Class03 |[Notes 3](https://ayaabe95.github.io/readings/class03/)|
+| Class04 |[Notes 4](https://ayaabe95.github.io/readings/class04/)|
+| Class05 |[Notes 5](https://ayaabe95.github.io/readings/class05/)|
+| Class06a |[Notes6a](https://ayaabe95.github.io/readings/class06a/)|
+| Class06b |[Notes6b](https://ayaabe95.github.io/readings/class06b/)|
+| Class07 |[Notes 7](https://ayaabe95.github.io/readings/class07/)|
+| Class08 |[Notes 8](https://ayaabe95.github.io/readings/class08/)|
 
 # Reading Notes 201 #
 
