@@ -12,7 +12,6 @@
 | Class07 |[Notes 7](https://ayaabe95.github.io/readings/class07/)|
 | Class08 |[Notes 8](https://ayaabe95.github.io/readings/class08/)|
 
-# Reading Notes 201 #
 
 
 
