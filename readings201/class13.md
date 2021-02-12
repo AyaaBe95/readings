@@ -1,4 +1,4 @@
-# Class 12 Local storage #
+# Class 13 Local storage #
 
 ## The history of storage ##
 - Before HTML5, application data had to be stored in cookies, included in every server request.
