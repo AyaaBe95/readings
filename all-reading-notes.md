@@ -1,6 +1,6 @@
 # Reading Notes 102 #
 
-| Class0 |[growth mindest](https://ayaabe95.github.io/readings/readings102/Growth mindest/)|
+| Class0 |[growth mindest](https://ayaabe95.github.io/readings/readings102/Growth%mindest/)|
 | :---  |            ---:                                         |
 | Class01 |[Notes 1](https://ayaabe95.github.io/readings/readings102/class01)|
 | Class02 |[Notes 2](https://ayaabe95.github.io/readings/readings102/class02)|
