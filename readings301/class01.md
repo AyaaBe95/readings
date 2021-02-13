@@ -14,13 +14,16 @@
 
 With media queries you can define completely different styles for different browser sizes.
 Example: resize the browser window to see that the three div elements below will display horizontally 
-on large screens and stacked vertically on small screens. **
+on large screens and stacked vertically on small screens. 
 
 * Logical operators in media queries help build powerful expressions.
 
 * Using the viewport meta tag with either the height or width values will define the height or width of the viewport respectively.
 
 ![image](https://enginetemplates.com/wp-content/uploads/edd/2017/07/et-web-design-free-responsive-joomla-template.png)
+
+## flexible layout
+approach to page layout attempts to accommodate the diversity of display environments. Rather than serving only the "most common" display dimensions and the "typical" user, a flexible layout adapts to different viewing conditions and different user requirements. Flexible layouts are far more difficult to design than fixed layouts because elements need to be able to change shape and position without jeopardizing the integrity of the overall page design.
 
 
 
