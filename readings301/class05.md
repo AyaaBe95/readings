@@ -1,4 +1,4 @@
-# Heroku #
+# Heroku and Node.js #
 
 ## What is Heroku? ##
 - is a cloud platform as a service (PaaS) supporting several programming languages.
