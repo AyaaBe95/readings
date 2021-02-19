@@ -23,4 +23,4 @@ Node is particularly suited to building applications that require some form of r
 
 *The following image depicts Node’s execution model:*
 
-![image](img/1516152673node_event_loop.png)
+![image](https://s1.o7planning.com/en/11951/images/21212670.png
