@@ -17,7 +17,7 @@ It does not cause any observable side effects
 - Given a parameter A → expect the function to return value B
 - Given a parameter C → expect the function to return value D
 
-## Functions as first-class entities## 
+## Functions as first-class entities ## 
 Functions as first-class entities can:
 
 - refer to it from constants and variables
