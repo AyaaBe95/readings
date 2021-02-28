@@ -12,6 +12,5 @@
 for EX :
 Under the views/partials/ directory create a file called **navbar.ejs** which will contain only the HTML for the navigation bar at the top of the home and post pages:
 
-![image](img/par.png)
 
 
