@@ -2,7 +2,7 @@
 
 ## Sending form data 
 
-![image](img/55.png)
+![image](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data/client-server.png)
 
 ### On the client side: defining how to send the data ,
  The two most important attributes are :
