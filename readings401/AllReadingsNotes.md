@@ -6,18 +6,18 @@
 
 | Class# |[Links]()|
 | :---  |            ---:   |
-| Class01 |[Notes 2](https://ayaabe95.github.io/readings/readings401/class01)|
-| Class03 |[Notes 3](https://ayaabe95.github.io/readings/readings401/class02)|
-| Class03 |[Notes 4](https://ayaabe95.github.io/readings/readings401/class03)|
-| Class03 |[Notes 5]()|
-| Class03 |[Notes 6]()|
-| Class03 |[Notes 7]()|
-| Class03 |[Notes 8]()|
-| Class03 |[Notes 9]()|
-| Class03 |[Notes 10]()|
-| Class03 |[Notes 11]()|
-| Class03 |[Notes 12]()|
-| Class03 |[Notes 13]()|
-| Class03 |[Notes 14]()|
+| Class01 |[Notes 1](https://ayaabe95.github.io/readings/readings401/class01)|
+| Class02 |[Notes 2](https://ayaabe95.github.io/readings/readings401/class02)|
+| Class03 |[Notes 3](https://ayaabe95.github.io/readings/readings401/class03)|
+| Class04 |[Notes 4]()|
+| Class05 |[Notes 5]()|
+| Class06 |[Notes 6]()|
+| Class07 |[Notes 7]()|
+| Class08 |[Notes 8]()|
+| Class09 |[Notes 9]()|
+| Class10 |[Notes 10]()|
+| Class11 |[Notes 11]()|
+| Class12 |[Notes 12]()|
+| Class13 |[Notes 13]()|
 
 
