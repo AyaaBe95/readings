@@ -1,10 +1,10 @@
 # Maps, primitives, File I/O
 
 ## primitives 
--  the most basic data types available within the Java language
-  -  it lives inside the stack(faster to access)
--  Wrapper classes provide a way to use primitive data types
-  - It lives inside the heap(slower than primitives)
+- the most basic data types available within the Java language
+- it is faster to access
+- Wrapper classes provide a way to use primitive data types
+- It is slower than primitives
 -  ![scanner](https://static.javatpoint.com/images/java-data-types.png)
 
 
