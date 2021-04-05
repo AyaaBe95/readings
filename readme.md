@@ -6,7 +6,7 @@
  - Code 401 - Advanced Software Development
 
 
-| Course |[All readings 102]|
+| Course |[All readings Notes]|
 | :---  |            ---:                                         |
 | Course 102 |[All readings 102](https://ayaabe95.github.io/readings/readings102/ReadingNotes102)|
 | Course 201 |[All readings 201](https://ayaabe95.github.io/readings/readings201/ReadingNotes201)|
