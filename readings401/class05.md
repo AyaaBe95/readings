@@ -11,6 +11,8 @@
 - It can be visualized as a chain of nodes where each node contains the location of the next node .
 - The first node of the linked list is called the head of the linked list
 - The last node of the linked list is pointing to NULL
+
+
 ![scanner](https://www.tutorialride.com/images/data-structures/linked-list-ex.jpeg)
 
 ## Types of Linked List:
