@@ -11,7 +11,8 @@
 
 
 ## Spring MVC and Thymeleaf: how to access data from templates
-- @Controller classes are responsible for preparing a model map with data and selecting a view to be rendered
+
+### @Controller classes are responsible for preparing a model map with data and selecting a view to be rendered
 
 1- Spring model attributes:
 Add attribute to Model via its addAttribute method
