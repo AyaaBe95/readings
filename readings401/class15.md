@@ -1,6 +1,6 @@
 # Tree Data Structure
 
-![scanner](https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png)
+![scanner](https://docs.gigaspaces.com/attachment_files/SpringSecurity-ProviderManager.png)
 
 - A tree is a nonlinear hierarchical data structure that consists of nodes connected by edges.
 
