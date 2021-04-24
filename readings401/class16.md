@@ -1,5 +1,5 @@
 # Spring Authentication
-![scanner](https://miro.medium.com/max/1194/1*ziYvZzrttFYMXkkV9u66jw.png)
+![scanner](https://docs.gigaspaces.com/attachment_files/SpringSecurity-ProviderManager.png)
 
 
 - Spring Security: is a framework that focuses on providing both authentication and authorization to Java applications.
