@@ -1,6 +1,6 @@
 # Spring Boot and OAuth2
 
-![scanner](https://www.baeldung.com/wp-content/uploads/2019/07/bael-1239-image-simple-1-1024x858.png)
+![scanner](https://www.baeldung.com/wp-content/uploads/2019/07/bael-1239-image-simple-1-950x700.png)
 
 
 ## What is Authorization?
