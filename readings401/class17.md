@@ -1,5 +1,8 @@
 # Spring Boot and OAuth2
 
+![scanner](https://www.baeldung.com/wp-content/uploads/2019/07/bael-1239-image-simple-1-1024x858.png)
+
+
 ## What is Authorization?
 - Authorization happens after a user’s identity has been successfully authenticated. 
 - It is about offering full or partial access rights to resources like database, funds, and other critical information to get the job done.
