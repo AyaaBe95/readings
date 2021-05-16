@@ -10,7 +10,7 @@
 - This new activity is added to the back stack. If the user presses the Back button, that new activity is finished and popped off the stack.
 
 ### Back Stack:
-![](https://miro.medium.com/max/291/1*zItbFvFydIR63z_37ya1Iw.pnghttps://www.baeldung.com/wp-content/uploads/2017/09/New.png)
+![](https://miro.medium.com/max/582/1*zItbFvFydIR63z_37ya1Iw.png)
 
 - startActivity():pushing a new activity onto your task causing stop or pause the previous activity if exists.
 - finish():it pops the stack,removing activity from the back stack and moving to the previous stak.
