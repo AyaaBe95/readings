@@ -8,6 +8,9 @@
 - The basic idea of a hashtable is the ability to store the key into this data structure, and quickly retrieve the value. 
 - A hash is the ability to encode the key that will eventually map to a specific location in the data structure that we can look at directly to retrieve the value.
 
+![scanner](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/1200px-Hash_table_3_1_1_0_1_0_0_SP.svg.png)
+
+
 ## Advantages:
 - hash map has O(1) access.
 
